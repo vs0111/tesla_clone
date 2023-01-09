@@ -1,0 +1,178 @@
+.s1{
+    background-image: url("Photo/Tesla1.jpg");
+    background-size: cover;
+    width:1248px;
+    height: 650px;   
+    background-repeat: no-repeat;
+}
+svg{
+    margin-left: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    position: fixed;
+}
+nav{display:flex;
+}
+ul{list-style-type: none;
+    margin-left: 20%;
+    position:fixed;
+}
+li{
+    display:inline-block;
+    margin-left: 5px;
+}
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ li a:hover{color:white}
+
+ #btn1{
+     margin-top: 20px;
+     margin-left: 80%;
+     position: fixed;
+}
+#btn2{
+    margin-top: 20px;
+    padding-left: 84%;
+    position: fixed;
+}
+#btn3{
+    margin-top: 20px;
+    padding-left:92%;
+    position: fixed;
+}
+#head1{
+    margin-top: 100px;
+    margin-left: 42%;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    margin-top:5px;
+    margin-left: 38%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+u{
+    cursor: pointer;
+}
+.link{
+    position: fixed;
+    margin-top: 20%;
+    margin-left: 32%;
+}
+.cus{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10px 60px;
+    background-color:rgb(37,37,37);
+    color: white;
+    border-radius: 10px;
+    padding-top: 1;
+}
+.Ex{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding:10px 60px;
+    background-color:rgb(146, 143, 143);
+    color: black;
+    border-radius: 10px;
+}
+#s2{
+    background-image: url("Photo/Desktop-ModelY.jpg");
+    background-size:cover;
+    width: 1228px;
+    height: 750px;
+    padding: 10px;
+}
+.head2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    padding-top: 10%;
+    font-size: 45px;
+}
+#s3{
+    background-image: url("Photo/Homepage\(3\).jpg");
+    background-size: cover;
+    width: 1228px;
+    height: 650px;
+    padding: 10px;
+}
+.head3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 45px;
+}
+#s4{
+    background-image: url("Photo/Model\ X.jpg");
+    background-size: cover;
+    width: 1228px;
+    height: 650px;
+    padding: 10px;
+}
+.head4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 35px;   
+}
+#s5{
+    background-image: url("Photo/_25-HP-SolarPanels-D\ \(1\).jpg");
+    background-size: cover;
+    width: 1248px;
+    height: 650px;
+    padding: 10px;
+}
+.head5{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    margin-top: 10%;
+    font-size: 30px;
+}
+#s6{
+    background-image: url("Photo/Homepage-SolarRoof-Desktop-Global\ \(1\).webp");
+    background-size: cover;
+    width: 1248px;
+    height: 650px;
+    padding: 10px;
+}
+.head6{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40%;
+    margin-top:15%;
+    font-size:30px;
+}
+#s7{
+    background-image: url("Photo/dd739764-bcaa-4263-9488-8c73bc9fb046\ \(1\).jpg");
+    background-size: 100%;
+    width: 1100px;
+    height: 600px;
+    padding: 5%;
+    margin-left: 30px;
+}
+.head7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    margin-left: 40%;
+    margin-top: 20%;
+}
+.a{
+    margin-left: 15%;
+    margin-top: 40%;
+}
+    
+
+
+    
+
+    
+
+
+
+
+    
+    
+
+
+
